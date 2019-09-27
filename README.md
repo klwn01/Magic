@@ -52,7 +52,7 @@ public class Main {
 
         }
          //
-        if (k>2) {
+        if ((k==a.length)) {
             System.out.println("It's magic!");
         }
     }
